@@ -87,7 +87,7 @@ body{
     background-color: var(--ligth-grey);
 }
 
-.card > button{
+.card > a{
     display: block;
     width: 100%;
     padding: 13px;
@@ -104,7 +104,7 @@ body{
     text-decoration: none;
 }
 
-.card > button:hover{
+.card > a:hover{
     color: var(--orange);
     background-color: var(--white);
     cursor: pointer;
